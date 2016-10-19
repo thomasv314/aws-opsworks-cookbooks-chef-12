@@ -1,0 +1,6 @@
+name             "aws_opsworks_custom_run"
+maintainer       "AWS OpsWorks"
+license          "Apache 2.0"
+description      "Installs/configures aws_opsworks_custom_run"
+long_description "Installs/configures aws_opsworks_custom_run"
+version          "0.1.0"

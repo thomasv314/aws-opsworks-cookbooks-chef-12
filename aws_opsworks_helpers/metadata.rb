@@ -1,0 +1,5 @@
+name        "aws_opsworks_helpers"
+maintainer  "AWS OpsWorks"
+license     "Apache 2.0"
+description "Installs/Configures aws_opsworks_helpers"
+version     "0.1.0"
